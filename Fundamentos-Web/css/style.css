@@ -3,7 +3,7 @@
 }
 
 .bgPrimary {
-  background-color: rgb(232, 199, 245);
+  background-color: rgb(150, 111, 111);
 }
 
 .justify {
@@ -28,7 +28,7 @@
 }
 
 #menu li a:hover {
-  color: rgb(126, 123, 123);
+  color: #922981;
 }
 
 .p-30 {
