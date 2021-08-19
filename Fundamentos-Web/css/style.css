@@ -1,0 +1,60 @@
+.center {
+  text-align: center;
+}
+
+.bgPrimary {
+  background-color: rgb(189, 97, 226);
+}
+
+.justify {
+  text-align: justify;
+}
+.container {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+  align-items: center;
+}
+
+#menu li {
+  display: inline;
+  padding: 15px;
+}
+
+#menu li a {
+  text-decoration: none;
+  color: #a1148a;
+  font-size: 20px;
+}
+
+#menu li a:hover {
+  color: rgb(126, 123, 123);
+}
+
+.p-30 {
+  padding: 30px;
+}
+
+.br-50 {
+  border-radius: 50%;
+}
+
+.wh-300 {
+  object-fit: cover;
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+}
+
+.tm-social {
+  width: 50px;
+  height: 50px;
+}
+
+.mb-50 {
+  margin-bottom: 50px;
+}
+
+.ml-50 {
+  margin-left: 50px;
+}
