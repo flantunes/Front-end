@@ -3,7 +3,7 @@
 }
 
 .bgPrimary {
-  background-color: rgb(150, 111, 111);
+  background-color: rgb(83, 46, 112);
 }
 
 .justify {
@@ -16,6 +16,14 @@
   align-items: center;
 }
 
+.imgFundo {
+  background-image: url("../img/terapia-psicodelica-2.jpg");
+  background-size: 1400px 1400px;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  padding-bottom: 100px;
+}
+
 #menu li {
   display: inline;
   padding: 15px;
@@ -23,12 +31,12 @@
 
 #menu li a {
   text-decoration: none;
-  color: #a1148a;
+  color: #99619;
   font-size: 20px;
 }
 
 #menu li a:hover {
-  color: #922981;
+  color: rgb(207, 151, 151);
 }
 
 .p-30 {
